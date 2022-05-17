@@ -7,3 +7,9 @@ Desenvolver um script que permita somar um array de números consecutivos, de fo
 Depois, temos que pegar este resultado e somar o terceiro número, e assim por diante, até termos terminado de percorrer todo o array.
 
 
+# Grupo 5: 
+Ricardo Tani,
+Sara Marques,
+Adriel Reis,
+Eric,
+Henrique Marinho
