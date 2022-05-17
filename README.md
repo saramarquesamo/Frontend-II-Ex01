@@ -11,5 +11,5 @@ Depois, temos que pegar este resultado e somar o terceiro número, e assim por d
 Ricardo Tani,
 Sara Marques,
 Adriel Reis,
-Eric,
+Erick Rodrigo,
 Henrique Marinho
